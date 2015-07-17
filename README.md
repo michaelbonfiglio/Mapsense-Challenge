@@ -1,2 +1,0 @@
-# Mapsense-Challenge
-Design homework 
